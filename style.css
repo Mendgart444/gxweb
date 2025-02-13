@@ -1,4 +1,17 @@
-font{
+h1{
     font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
 
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+script{
+    color: aliceblue;
+}
+
+body{
+    background-color: black;
 }
